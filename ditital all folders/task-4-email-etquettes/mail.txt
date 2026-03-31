@@ -1,0 +1,70 @@
+CSE0001 – Digital Literacy | Task 4: Professional Email Drafts
+Student: Shahid Alam | Reg No: 25BAI11201
+
+
+EMAIL 1 – Request for Assignment Deadline Extension
+----------------------------------------------------
+
+Subject: Request for Extension – [Assignment Name] Submission Deadline
+
+Dear Professor [Last Name],
+
+I hope this email finds you well. I am Shahid Alam (Registration No. 25BAI11201), a
+first-year B.Tech student in the CSE(ai/ml) branch, enrolled in your [Course Name] course
+(Course Code: [XX0000]).
+
+I am writing to respectfully request a short extension of [X days] for the submission
+of [Assignment Name], which is currently due on [original due date]. I have been
+diligently working on the assignment; however, due to [brief reason – e.g., a
+concurrent examination schedule / health issue / technical difficulty], I have been
+unable to complete it to the standard I aim for.
+
+I assure you that I am committed to this course and take the submission seriously. I
+would be grateful if you could consider granting an extension until [proposed new date].
+I am happy to discuss this further at your convenience.
+
+Thank you very much for your time and understanding.
+
+Warm regards,
+Shahid Alam
+B.Tech CSE (ai/ml), First Year
+Registration No. 25BAI11201
+VIT Bhopal University
+Email: [your college email]
+
+
+
+
+
+EMAIL 2 – Expression of Interest in Summer Internship
+
+Subject: Application for Summer Internship Opportunity – CSE Student, VIT Bhopal
+
+Dear [Mr./Ms. Last Name],
+
+I hope you are doing well. My name is Shahid Alam, and I am a first-year B.Tech
+student specializing in Computer Science and Engineering (ai/ml) at VIT Bhopal University
+(Registration No. 25BCE10989). I came across [Company Name]'s internship opportunity
+through [source – e.g., your company website / LinkedIn] and am writing to express my
+sincere interest in joining your team as a summer intern.
+
+I am eager to apply my foundational knowledge in programming, problem-solving, and
+digital tools in a real-world environment. I have been actively building my skills
+through platforms such as LeetCode and GitHub, and I am a quick and motivated learner.
+I am confident that an internship at [Company Name] will provide me with invaluable
+industry exposure and help me grow both technically and professionally.
+
+I would be honoured to be considered for this opportunity. Please find my GitHub
+profile at [GitHub URL] for a sample of my work. I would be glad to share my resume or
+attend an interview at a time that is convenient for you.
+
+Thank you for considering my application. I look forward to hearing from you.
+
+Yours sincerely,
+Shahid Alam
+B.Tech CSE(ai/ml), First Year
+VIT Bhopal University
+Registration No. 25BAI11201
+Email: [your college email]
+GitHub: [your GitHub URL]
+LinkedIn: [your LinkedIn URL]
